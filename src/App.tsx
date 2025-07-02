@@ -103,13 +103,13 @@ export const App = () => {
 
   const getOnlySub = () => {
     window.gtag("event", "5474_get_sub", {
-      variant_name: "5474_2",
+      variant_name: "5474_3",
     });
   };
 
   const getInfo = () => {
     window.gtag("event", "5474_get_info", {
-      variant_name: "5474_2",
+      variant_name: "5474_3",
     });
   };
 
